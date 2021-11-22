@@ -9,3 +9,5 @@ VK reminder, used for helping with zoom conferences ids and passwords during pan
 -main.php is a handler for all incoming messages  
 -timetableMain.php is a handler for automated reminders before each lesson; activated by Cron  
 -vk_api.php is a kind of a library for vk.com api
+
+>More old projects are going to be uploaded as they've been structured
